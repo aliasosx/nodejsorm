@@ -11,5 +11,9 @@
     "url": "nodejsorm"
   },
   "author": "soulisack SAYYALINH",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "orm": "^5.0.2"
+  }
 }
